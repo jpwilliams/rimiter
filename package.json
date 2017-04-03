@@ -1,6 +1,6 @@
 {
   "name": "rimiter",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A simple in-memory rate limiter",
   "main": "index.js",
   "scripts": {
