@@ -1,0 +1,33 @@
+{
+  "name": "rimiter",
+  "version": "1.0.0",
+  "description": "A simple in-memory rate limiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwilliams/rimiter.git"
+  },
+  "keywords": [
+    "rate",
+    "limiter",
+    "ratelimit",
+    "limiter",
+    "limit",
+    "memory",
+    "spam",
+    "abuse",
+    "ddos"
+  ],
+  "author": "Jack Williams (@atticjack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpwilliams/rimiter/issues"
+  },
+  "homepage": "https://github.com/jpwilliams/rimiter#readme",
+  "dependencies": {
+    "microloader": "^0.3.1"
+  }
+}
