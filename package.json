@@ -29,5 +29,9 @@
   "homepage": "https://github.com/jpwilliams/rimiter#readme",
   "dependencies": {
     "microloader": "^0.3.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
 }
