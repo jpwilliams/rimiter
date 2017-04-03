@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jpwilliams/rimiter#readme",
   "dependencies": {
-    "microloader": "^0.3.1"
+    "microloader": "^0.4.0"
   },
   "files": [
     "index.js",
